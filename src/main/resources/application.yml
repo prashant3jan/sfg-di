@@ -1,5 +1,5 @@
-sprin:
-    :profiles:
+spring:
+  profiles:
           active: dog,EN,qa
 guru:
     username: YmlUserName
